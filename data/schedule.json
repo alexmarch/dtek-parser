@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-04T21:38:54.107Z",
+  "updated": "2026-02-04T22:21:15.778Z",
   "street": "вул. Крістерів Родини",
   "building": "20",
   "schedule": {
@@ -48,43 +48,43 @@
         },
         {
           "time": "03-04",
-          "status": "scheduled",
-          "class": "cell-scheduled"
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
         },
         {
           "time": "04-05",
-          "status": "scheduled",
-          "class": "cell-scheduled"
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
         },
         {
           "time": "05-06",
-          "status": "scheduled",
-          "class": "cell-scheduled"
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
         },
         {
           "time": "06-07",
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
+        },
+        {
+          "time": "07-08",
           "status": "scheduled",
           "class": "cell-scheduled"
         },
         {
-          "time": "07-08",
-          "status": "first-half-off",
-          "class": "cell-first-half"
-        },
-        {
           "time": "08-09",
-          "status": "non-scheduled",
-          "class": "cell-non-scheduled"
+          "status": "scheduled",
+          "class": "cell-scheduled"
         },
         {
           "time": "09-10",
-          "status": "non-scheduled",
-          "class": "cell-non-scheduled"
+          "status": "scheduled",
+          "class": "cell-scheduled"
         },
         {
           "time": "10-11",
-          "status": "second-half-off",
-          "class": "cell-second-half"
+          "status": "scheduled",
+          "class": "cell-scheduled"
         },
         {
           "time": "11-12",
@@ -108,33 +108,33 @@
         },
         {
           "time": "15-16",
-          "status": "scheduled",
-          "class": "cell-scheduled"
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
         },
         {
           "time": "16-17",
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
+        },
+        {
+          "time": "17-18",
+          "status": "second-half-off",
+          "class": "cell-second-half"
+        },
+        {
+          "time": "18-19",
           "status": "scheduled",
           "class": "cell-scheduled"
         },
         {
-          "time": "17-18",
-          "status": "first-half-off",
-          "class": "cell-first-half"
-        },
-        {
-          "time": "18-19",
-          "status": "non-scheduled",
-          "class": "cell-non-scheduled"
-        },
-        {
           "time": "19-20",
-          "status": "non-scheduled",
-          "class": "cell-non-scheduled"
+          "status": "scheduled",
+          "class": "cell-scheduled"
         },
         {
           "time": "20-21",
-          "status": "second-half-off",
-          "class": "cell-second-half"
+          "status": "scheduled",
+          "class": "cell-scheduled"
         },
         {
           "time": "21-22",
