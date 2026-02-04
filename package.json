@@ -1,0 +1,24 @@
+{
+  "name": "dtek-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmarch/dtek-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alexmarch/dtek-parser/issues"
+  },
+  "homepage": "https://github.com/alexmarch/dtek-parser#readme",
+  "dependencies": {
+    "playwright": "^1.58.1"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "updated": "2026-02-04T20:31:38.362Z",
+  "street": "вул. Крістерів Родини",
+  "building": "20",
+  "schedule": {
+    "timeRanges": [
+      "00-01",
+      "01-02",
+      "02-03",
+      "03-04",
+      "04-05",
+      "05-06",
+      "06-07",
+      "07-08",
+      "08-09",
+      "09-10",
+      "10-11",
+      "11-12",
+      "12-13",
+      "13-14",
+      "14-15",
+      "15-16",
+      "16-17",
+      "17-18",
+      "18-19",
+      "19-20",
+      "20-21",
+      "21-22",
+      "22-23",
+      "23-24"
+    ],
+    "schedule": [
+      [
+        {
+          "time": "00-01",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "01-02",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "02-03",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "03-04",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "04-05",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "05-06",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "06-07",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "07-08",
+          "status": "first-half-off",
+          "class": "cell-first-half"
+        },
+        {
+          "time": "08-09",
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
+        },
+        {
+          "time": "09-10",
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
+        },
+        {
+          "time": "10-11",
+          "status": "second-half-off",
+          "class": "cell-second-half"
+        },
+        {
+          "time": "11-12",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "12-13",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "13-14",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "14-15",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "15-16",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "16-17",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "17-18",
+          "status": "first-half-off",
+          "class": "cell-first-half"
+        },
+        {
+          "time": "18-19",
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
+        },
+        {
+          "time": "19-20",
+          "status": "non-scheduled",
+          "class": "cell-non-scheduled"
+        },
+        {
+          "time": "20-21",
+          "status": "second-half-off",
+          "class": "cell-second-half"
+        },
+        {
+          "time": "21-22",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "22-23",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        },
+        {
+          "time": "23-24",
+          "status": "scheduled",
+          "class": "cell-scheduled"
+        }
+      ]
+    ]
+  }
+}
