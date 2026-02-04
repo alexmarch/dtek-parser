@@ -13,9 +13,9 @@ const BUILDING = "20";
     });
 
     // adjust selectors if needed
-    await page.fill('input[name="street"]', STREET);
-   
-    await page.waitForTimeout(1000); // wait for any dynamic loading
+    await page.fill('input[name="street"]', STREET, { timeout: 5000 });
+
+    await page.waitForTimeout(4000); // wait for any dynamic loading
     await page.fill('input[name="house_num"]', BUILDING);
 
     await page.waitForSelector("table");
